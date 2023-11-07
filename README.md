@@ -16,6 +16,8 @@ For this project, I created a data Pipeline using Azure Data Factory.
 
 📦 Data Ingestion: Loaded the data using data factory to Azur Data Lake gen 2 
 
-🛠️Data Transformation: Loaded the transformed into a Azure Datagen 2 in Trasormed directory which is now suitable for analysis.
+Create api registrations: In order to create a connection providing an authentication mount data bricks to ADLS using I AM authentication
+
+🛠️Data Transformation:Transformed data inusing spark in databricks,loaded the transformed into a Azure Datagen 2 in Trasormed directory which is now suitable for analysis.
 
 
